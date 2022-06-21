@@ -1,7 +1,7 @@
 # Hi, I am Aurélie Mazet
 
-🕵️‍♀️ I am an enthusiastic data explorer, driven by the benefits of data in our daily lives. 
-Improving my skills every day in Data exploration & visualization through Machine Learning and Jupyter notebook.
+🕵️‍♀️ I am an enthusiastic data explorer, driven by the benefits of data in our daily lives to tackle human challenges, through technology and innovative solutions.
+Improving my skills every day in Data exploration & visualization through Machine Learning thanks to Jupyter notebook and Visual Studio Code
 
 🎓 Graduated with a Master of Science in Artificial Intelligence for Business Transformation (AIBT) from SKEMA, a top leading business school in Paris in 2022
 
