@@ -1,9 +1,15 @@
-# Hi, I am Aurélie Mazet
+# 👋 Hi, I'm Aurélie Mazet  
 
-🕵️‍♀️ Data enthusiast drove by how data can tackle human challenges, through technology and innovative solutions.
-Improving my skills every day in Data exploration & visualization through Machine Learning thanks to Jupyter notebook and Visual Studio Code
+🚀 Customer-focused professional evolving from business and sales leadership toward **Customer Success Engineering** in **AI** and **Cybersecurity**.  
+I’m passionate about turning complex technology into clear, actionable value for clients.  
 
-🎓 Graduated with a Master of Science in Artificial Intelligence for Business Transformation (AIBT) from SKEMA, a top leading business school in Paris(2022)
+💡 Currently developing projects on:
+- **AI-driven Customer Insights Dashboard** – understanding customer pain points through data and NLP.  
+- **Cybersecurity Onboarding Simulation** – designing structured integration and troubleshooting guides for SOC teams.  
+- **Customer Success Playbook** – connecting business outcomes with technical adoption frameworks.  
 
-❗ Miscellaneous: I used to have my company in the wine industry & created wine tasting videos on Youtube 
+🎓 MSc in Artificial Intelligence for Business Transformation (SKEMA Business School, 2022).  
+📍 Based in Paris, open to international collaboration.  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aurelie-mazet)  
 
